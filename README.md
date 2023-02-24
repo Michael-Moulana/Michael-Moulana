@@ -16,4 +16,4 @@
 
 ## 🌱 Currently Learning
 
-I'm curruntly focused on enrich my backend development skills with NodeJS and ExpressJS. Moreover, I work on my frontend development skills to become a Full Stack Developer. 
+For the time being, I'm focusing on expanding my backend development skills using NodeJS and ExpressJS. Furthermore, I strive to become a Full Stack Developer by improving my frontend development skills.
