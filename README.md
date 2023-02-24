@@ -4,12 +4,12 @@
 </h1>
 :man_technologist: I'm a Node.js backend developer who aims building scalable and maintainable web applications. I'm passionate about using technology to solve real-world problems and always striving to learn new things.
 
----
 
 ## 🚀 Skills
 
 - Languages: JavaScript, Java, C#, HTML, CSS </br>
 - Backend Technologies: Node.js, Express.js, MongoDB, MySQL </br>
+- Frontend Technologies: Bootstrap </br>
 - Testing and Automation: Jest </br>
 - Other Tools and Technologies: Git, Heroku </br>
 
