@@ -8,10 +8,10 @@
 
 ## 🚀 Skills
 
-Languages: JavaScript, Java, C#, HTML, CSS
-Backend Technologies: Node.js, Express.js, MongoDB, MySQL
-Testing and Automation: Jest
-Other Tools and Technologies: Git, Heroku
+Languages: JavaScript, Java, C#, HTML, CSS </br>
+Backend Technologies: Node.js, Express.js, MongoDB, MySQL </br>
+Testing and Automation: Jest </br>
+Other Tools and Technologies: Git, Heroku </br>
 
 
 ## 🌱 Currently Learning
