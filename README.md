@@ -1,8 +1,8 @@
 <h1>
   Hey, I'm Michael
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="text-align: center"/>
 </h1>
-### :man_technologist: I'm a Node.js backend developer who aims building scalable and maintainable web applications. I'm passionate about using technology to solve real-world problems and always striving to learn new things.
+## :man_technologist: I'm a Node.js backend developer who aims building scalable and maintainable web applications. I'm passionate about using technology to solve real-world problems and always striving to learn new things.
 
 ---
 
@@ -13,10 +13,7 @@ Backend Technologies: Node.js, Express.js, MongoDB, MySQL
 Testing and Automation: Jest
 Other Tools and Technologies: Git, Heroku
 
----
 
 ## 🌱 Currently Learning
 
 I'm curruntly focused on enrich my backend development skills with NodeJS and ExpressJS. Moreover, I work on my frontend development skills to become a Full Stack Developer. 
-
----
