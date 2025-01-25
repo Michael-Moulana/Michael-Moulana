@@ -15,7 +15,7 @@
 
 ## 🌱 Currently Learning
 
-For the time being, I'm focusing on expanding my backend development skills using NodeJS and ExpressJS. Furthermore, I strive to become a Full Stack Developer by improving my frontend development skills.
+For the time being, I'm focusing on expanding my MERN stack development.
 
 
 ## 📞 How to Reach Me
