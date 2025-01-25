@@ -7,11 +7,10 @@
 
 ## 🚀 Skills
 
-- **Languages**: JavaScript, Java, Python, C#, HTML, CSS </br>
+- **Languages**: JavaScript, Java, Python, C# </br>
 - **Backend Technologies**: NodeJS, ExpressJS, MongoDB, MySQL </br>
-- **Frontend Technologies**: NextJS, TailwindCSS, Bootstrap </br>
+- **Frontend Technologies**: ReactJs, NextJS, TailwindCSS, Bootstrap </br>
 - **Testing and Automation**: Jest, Mocha, Chai, Postman </br>
-- **Other Tools and Technologies**: Git, Heroku </br>
 
 
 ## 🌱 Currently Learning
