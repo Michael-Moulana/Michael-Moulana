@@ -23,5 +23,4 @@ For the time being, I'm focusing on expanding my MERN stack development.
 I'm always open to collaboration, feedback, and interesting conversations! Here are a few ways you can reach out to me:
 
 - **Email**: Mohammadrezamoulana@gmail.com
-- **LinkedIn**: [Michaels's LinkedIn](https://www.linkedin.com/in/mohammadreza-moulana/)
-- **Telegram**: [Telegram me](https://t.me/michael_moulana)
+- **LinkedIn**: [Michaels's LinkedIn](https://www.linkedin.com/in/michael-moulana/)
